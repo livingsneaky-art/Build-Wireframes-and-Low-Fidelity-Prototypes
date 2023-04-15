@@ -129,3 +129,25 @@
 //Activity Exemplar: Build a goal statement for the CoffeeHouse project
 
 //Share your portfolio project goal statement
+
+
+//Online user flows
+//Introduction to user flows
+/*
+    User flow
+        - The path taken by a typical user on an app or a website, so they can complete a task from start to finish
+
+        Circle = Action (what the user does)
+        Rectable = Screen (what the user sees)
+        Diamond = Decision (what the user chooses)
+        Line with arrow = Direction (where the user goes next)
+*/
+
+//Outline a user flow
+/*
+    In order to move through the app you need to determine the following:
+        - What actions will users take in the app?
+        - What decisions will users make?
+        - What screens will users experience after taking action or making a decision?
+*/
+
