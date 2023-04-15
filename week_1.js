@@ -89,3 +89,43 @@
     - "What research should we be doing?"
     - "Where can we have real benefit and impact to the business?"
 */
+
+
+//Build goal statements
+//Create goal statements
+/*
+    Product goal statement
+        - One or two sentences that describe a product and its benefits for the user
+
+    Goal statement
+        - [What] the product lets users do
+        - [Who] the action affects
+        - [Why] the action positively affects users
+        - [How] the effectiveness of the product is measured
+
+    Goal Statement
+        - Our [product(what)] will let users [perform specific actions(what)] which will affect [describe who the action will affect(who)]
+        by [describe how the action will positively affect users(why)]. We will measure effectiveness by [describe how you will measure the impact].
+            Example:
+                Our [dog walking app] will let users [schedule dog walkers quickly and easily] which will affect [Pet owners] by
+                [allowing them to choose the most convenient times and dates to have their dog walked]. We will measure effectiveness by
+                [analyzing the number of daily and weekly appointments.]
+
+    Problem Statement
+        - [username] is a [user characteristics] who needs [user need] because [insight].
+            Example:
+                - [Drew] is a [pet owner in a small town] who needs [to find and schedule a dog walker] because [they work the night shift].
+*/
+
+//Learn more about goal statements
+/*
+    To create goal statments for the design project
+        - Revisit your problem satement
+        - Transition from identifying the problem to defining the goal
+*/
+
+//Practice Activity: Build a goal statement for the CoffeeHouse project
+
+//Activity Exemplar: Build a goal statement for the CoffeeHouse project
+
+//Share your portfolio project goal statement
